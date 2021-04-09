@@ -1,0 +1,92 @@
+[
+  {
+    "type": "circle1",
+    "alt": "img",
+    "mode": "blur"
+  },
+  {
+    "type": "circle2",
+    "alt": "img",
+    "mode": "none"
+  },
+  {
+    "type": "circle3",
+    "alt": "img",
+    "mode": "blur"
+  },
+  {
+    "type": "circle4",
+    "alt": "img",
+    "mode": "blur"
+  },
+  {
+    "type": "circle5",
+    "alt": "img",
+    "mode": "blur"
+  },
+  {
+    "type": "circle6",
+    "alt": "img",
+    "mode": "blur"
+  },
+  {
+    "type": "circle7",
+    "alt": "img",
+    "mode": "blur"
+  },
+  {
+    "type": "circle8",
+    "alt": "img",
+    "mode": "none"
+  },
+  {
+    "type": "circle9",
+    "alt": "img",
+    "mode": "none"
+  },
+  {
+    "type": "circle10",
+    "alt": "img",
+    "mode": "none"
+  },
+  {
+    "type": "circle11",
+    "alt": "img",
+    "mode": "none"
+  },
+  {
+    "type": "cross1",
+    "alt": "img",
+    "mode": "none"
+  },
+  {
+    "type": "cross2",
+    "alt": "img",
+    "mode": "none"
+  },
+  {
+    "type": "cross3",
+    "alt": "img",
+    "mode": "none"
+  },
+  {
+    "type": "cross4",
+    "alt": "img",
+    "mode": "none"
+  },
+  {
+    "type": "cross5",
+    "alt": "img",
+    "mode": "none"
+  },
+  {
+    "type": "cross6",
+    "alt": "img",
+    "mode": "blur"
+  },
+  {
+    "type": "cross7",
+    "alt": "img",
+    "mode": "none"
+  }
+]
